@@ -1,0 +1,12 @@
+# Exclude the virtual environment folder
+../portfolioVenv/
+
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+
+# Exclude SQLite database files
+*.sqlite3
+
+# Exclude log files
+*.log
